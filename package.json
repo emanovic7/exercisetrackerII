@@ -12,5 +12,25 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This is Exercise Tracker built with React.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanovic7/exercisetrackerII.git"
+  },
+  "keywords": [
+    "Exercise",
+    "Tracker",
+    "entirely",
+    "in",
+    "React"
+  ],
+  "author": "Emmanuel Owusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanovic7/exercisetrackerII/issues"
+  },
+  "homepage": "https://github.com/emanovic7/exercisetrackerII#readme"
 }
