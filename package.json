@@ -15,7 +15,12 @@
   },
   "description": "This is Exercise Tracker built with React.",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "http-server": "^0.11.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/emanovic7/exercisetrackerII.git"
